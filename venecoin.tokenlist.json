@@ -1,0 +1,21 @@
+{
+  "name": "VENE Official Token List",
+  "logoURI": "https://raw.githubusercontent.com/smontesc/venecoin-tokenlist/main/venecoin-256.png",
+  "keywords": ["venecoin", "vene", "polygon"],
+  "timestamp": "2025-08-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8",
+      "name": "VENE Coin",
+      "symbol": "VENE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smontesc/venecoin-tokenlist/main/venecoin-256.png",
+      "tags": ["community", "meme"],
+      "extensions": {
+        "website": "https://www.venecoin.xyz/"
+      }
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
