@@ -1,0 +1,34 @@
+{
+  "name": "VENE Official Token List",
+  "logoURI": "https://raw.githubusercontent.com/VENEcoinOfficial/venecoin-tokenlist/main/venecoin-256.png",
+  "timestamp": "2025-10-02T04:14:26.380627Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8",
+      "symbol": "VENE",
+      "name": "Venezuela Nueva Libre y Eterna",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VENEcoinOfficial/venecoin-tokenlist/main/venecoin-256.png",
+      "tags": [
+        "defi",
+        "latam",
+        "community"
+      ],
+      "extensions": {
+        "website": "https://www.venecoin.xyz",
+        "explorer": "https://polygonscan.com/token/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8",
+        "dexscreener": "https://dexscreener.com/polygon/0x4b9b9394a98dc6264c7d1cbfad3e5633c0e886d8",
+        "tokenomics": {
+          "maxSupply": "1000000000",
+          "distribution": {
+            "treasury": "51.56%",
+            "marketing": "24.70%",
+            "liquidity": "22.20%"
+          },
+          "liquidityLock": "Locked until Nov 30, 2025 (Team Finance)"
+        }
+      }
+    }
+  ]
+}

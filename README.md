@@ -1,56 +1,38 @@
-# Venezuela Nueva Libre y Eterna (VENE)
+# 🇻🇪 VENE Token – Venezuela Nueva Libre y Eterna  
 
-VENE is a community-driven token launched on the **Polygon PoS** network with the mission to represent freedom, innovation, and opportunity through blockchain.  
-The project is designed as a transparent, fair-launch initiative with no private sales or hidden allocations.
+**Contract Address (Polygon PoS):**  
+[`0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8`](https://polygonscan.com/token/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8)  
 
----
-
-## 🔗 Token Information
-
-- **Name:** Venezuela Nueva Libre y Eterna  
-- **Symbol:** VENE  
-- **Network:** Polygon PoS  
-- **Contract Address:** [0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8](https://polygonscan.com/token/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8)  
-- **Decimals:** 18  
-- **Max Supply:** 1,000,000,000 VENE (fixed, no further minting possible)  
-- **Token Standard:** ERC-20  
+**Symbol:** VENE  
+**Decimals:** 18  
+**Max Supply:** 1,000,000,000 VENE  
 
 ---
 
-## 📊 Token Allocation
-
-- **75% Liquidity & Community Distribution**  
-- **25% Treasury & Advisory**  
-- **No burns conducted** – any changes will always be communicated transparently and verifiable on-chain.
-
----
-
-## 💧 Liquidity & Security
-
-Liquidity has been locked to ensure transparency and trust:
-
-- **Liquidity Lock Platform:** Team Finance  
-- **Lock Duration:** Until **30 November 2025**  
-- **Public Lock Proof:** [View Lock on Team Finance](https://www.team.finance/view-coin/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8?name=Venezuela%20Nueva%20Libre%20y%20Eterna&symbol=VENE&chainid=0x89)
+### 🔗 Official Links  
+- 🌐 Website: [https://www.venecoin.xyz](https://www.venecoin.xyz)  
+- 📢 Telegram: [https://t.me/VENECoinOfficial](https://t.me/VENECoinOfficial)  
+- 🐦 Twitter: *(pending official)*  
+- 📈 Dexscreener: [VENE/USDT](https://dexscreener.com/polygon/0x4b9b9394a98dc6264c7d1cbfad3e5633c0e886d8)  
+- 💰 Direct Buy (Uniswap): [Buy VENE](https://app.uniswap.org/explore/tokens/polygon/0x4b9b9394a98dc6264c7d1cbfad3e5633c0e886d8)  
+- 🔎 Listings: [FreshCoins](https://www.freshcoins.io/coins/venezuela-nueva-libre-y-eterna) | [Coinscope](https://www.coinscope.co/coin/vene) | [CoinMooner](https://coinmooner.com/coins/venezuela-nueva-libre-y-eterna-vene)  
 
 ---
 
-## 📈 Trading
-
-- **DEX:** Uniswap (Polygon)  
-- **Pair:** VENE / USDT  
-- [Trade on Uniswap](https://app.uniswap.org/#/tokens/polygon/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8)
-
----
-
-## 📜 Transparency & Links
-
-- **Polygonscan:** [View Contract](https://polygonscan.com/token/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8)  
-- **Liquidity Lock:** [Team Finance Lock](https://www.team.finance/view-coin/0x4B9b9394a98dC6264c7d1CBfAd3E5633C0E886D8?name=Venezuela%20Nueva%20Libre%20y%20Eterna&symbol=VENE&chainid=0x89)  
-- **Official Website:** [https://venecoin.xyz](https://venecoin.xyz)  
+### 📊 Tokenomics (Updated October 2025)  
+- 🔒 **Treasury (Vault):** 51.56%  
+- 📢 **Marketing & Community:** 24.70%  
+- 💧 **Liquidity / Market Making:** 22.20%  
+- 🪙 **Liquidity Lock:** Locked until **Nov 30, 2025** (via Team Finance)  
 
 ---
 
-## ⚠️ Disclaimer
+### 📝 Notes  
+- Standard ERC-20 token deployed on **Polygon PoS**.  
+- No extra transfer fees (only Polygon gas).  
+- No max wallet / blacklist / freeze functions.  
+- Transparent structure for long-term growth.  
 
-VENE is a community-driven token. It is not financial advice or an investment recommendation. Please **DYOR (Do Your Own Research)** before investing in any cryptocurrency.  
+---
+
+⚡ This repository hosts the official **VENE Tokenlist JSON** used for integrations.  
